@@ -1,0 +1,7 @@
+#Sat Sep 09 16:32:26 PDT 2017
+base.0=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W4PizzaOrder_Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b9111753a92cd360507bc41d84a1ccb9a39424e5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W4PizzaOrder_Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e3577d67f5edea0e219f521ccb8a7f035511fde7\\classes.dex
+base.1=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W4PizzaOrder_Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e3577d67f5edea0e219f521ccb8a7f035511fde7
+file.0=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W4PizzaOrder_Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b9111753a92cd360507bc41d84a1ccb9a39424e5\\classes.dex
