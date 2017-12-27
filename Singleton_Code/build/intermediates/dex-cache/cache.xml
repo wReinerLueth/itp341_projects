@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\e248d688e087d3034f8baffdaf9ed91692439334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_55f3eb9c803829fcd80e4b4436cd4611f800fc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\07d96f84d6a5fdcb3eebbbffb78032434be01374\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_0318a2b0e0fc575040e07a7c76214e726c0a73a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\5e4d1fefe170b4acfc4143cdc3ee82000213a1e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_37184e90739a2a1a2c098a1d886dfd3e54e2dc81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\3953a9c0a580c16a0067e3052ed2d86cb12885e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_6f63c909e48d6c39e560bb34905ae4faed4e058d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\3c5ef2184968a624a27277e47717ce5db8d8206b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_2156669718e394b3d3a178d4813be119988a6bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\d5c9e3853ec0b0f49807f23da9aba1c0ad7fc482\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_25aa232d24e6457954d9a1e5ec5f4289c8989666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\dfb7ceb9627f1abeac10fd06668638dd33a55e48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_accc9eb54b359bdb8fb88d84868b0d9ff4b89533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\6cd9c2d84acb0d9da103b07877a9cd3cf1d486d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_2eb514d12a78d7f2b17a4a920940c2ad054b2383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\.android\build-cache\fc8b528008625a8c4a236e983c74784e726cc37d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\classes_ec1970fcedbfa7362a784ab4fc069a28e79173ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\empty\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\empty\Documents\Singleton_Code\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_cdc278f9572332d7118e0b9cb29ddff7a3d42bfa.jar" />
+    </item>
+
+</items>

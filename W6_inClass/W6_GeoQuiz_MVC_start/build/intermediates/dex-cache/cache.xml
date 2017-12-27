@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e471186dfe011e34ab90baf92fa3211e8ca0f6e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_224ea3ade94a37ec9d9faa96ff8cba1d19ca62ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_70503e7450f35cc55612d8f98018477f3e809755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_6848fcc92e3cf0ef4c94f0f8f7e378f3deb5bba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_85a4e685c0d704f215bea3ff1a36736bf8a19d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_fbcc58b07db336f01bf371f93139f0575b7edb3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_302d8926ca40c44939b5b94d4bb9f6dc4a5b2cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_6028c87474b4457f17cc4d5a4f66a3b4d5ea429e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_d033678f1d109dc308909fcdfb230480ddeadfd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_b9f0ac250d1af102eba7421d504661014e349ac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_086a33657f7d8f76844af11fcc8ebf77f3b0e20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_23f3aa39ac3d292a38a4f2550a5330fd58cc14c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_df7bdf7ac2514392e4ade56ac1b6b6082661d13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_1e1a00ebf041c0f143556af6809e46aa60c204ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_f5e1adcc026aa14f799a31ad572a37aa1ed5f972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_465d1d3c9e39d44ab2b18c3e7ee8aa0508f664c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_96c6fde6d8ae0d2cbbde491f553e3a45478778fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_8fb6d5e6bbeb1736f94937a76581dbb4c32cfd34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_fcac3a48667ffaf0786e3195c2c9ef0e9e433976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_cd811945f0172da01e0778e4cefcadcebc885850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_62bb4c21368abe14196124175185ea18213d306c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_f5cb4d1da7bc488c566059728ecaadce23ad8943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_6f1d112bbef641b884d7bbd733762813bb4a5a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_start\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_c50e93c8c863ab3c92febad9241f40795da0364a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_2d8dc331f584cfb56f6c8ab3b8532f4222aa6e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_817edd30c8553c2511f0bbf025f254021289329e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W7_GeoQuiz_MVC_final - New\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_90742232d8b843bf576e58e6fd8c000fda6029f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W6_GeoQuiz_Final\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_c48aa71dd61c8f7db938d1b2941c164721f36e23.jar" />
+    </item>
+
+</items>

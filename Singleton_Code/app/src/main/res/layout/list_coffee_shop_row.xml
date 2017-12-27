@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- list_row_name
+        list_row_city
+        -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shop Name"
+        android:id="@+id/list_row_name"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="City"
+        android:id="@+id/list_row_city"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@id/list_row_name"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/coffee_bean_small_filled"
+        android:layout_alignParentEnd="true"
+        />
+
+</RelativeLayout>

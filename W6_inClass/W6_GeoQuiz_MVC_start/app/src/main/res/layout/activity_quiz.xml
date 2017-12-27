@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+  <TextView
+      android:id="@+id/text_question"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="24dp"
+      android:layout_marginTop="20dp"/>
+
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:gravity="center"
+      android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/button_true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_true" />
+
+    <Button
+        android:id="@+id/button_false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_false" />
+
+  </LinearLayout>
+
+  <Button
+      android:id="@+id/button_cheat"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/label_cheat" />
+
+  <Button
+      android:id="@+id/button_next"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/label_next"
+      android:drawableRight="@drawable/arrow_right"
+      android:drawablePadding="4dp" />
+  <RelativeLayout
+      android:layout_gravity="bottom"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      >
+    <TextView
+        android:id="@+id/text_score_correct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_score_correct"
+        android:layout_above="@+id/text_score_incorrect"/>
+    <TextView
+        android:id="@+id/text_score_correct_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_above="@+id/text_score_incorrect"
+        android:layout_toEndOf="@id/text_score_correct"
+        android:layout_marginStart="32dp"/>
+    <TextView
+        android:id="@+id/text_score_incorrect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_score_incorrect"
+        android:layout_above="@+id/text_score_cheat"/>
+    <TextView
+        android:id="@+id/text_score_incorrect_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_above="@+id/text_score_cheat"
+        android:layout_toEndOf="@id/text_score_correct"
+        android:layout_marginStart="32dp"/>
+    <TextView
+        android:id="@+id/text_score_cheat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_score_cheat"
+        android:layout_alignParentBottom="true"/>
+    <TextView
+        android:id="@+id/text_score_cheat_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@id/text_score_correct"
+        android:layout_marginStart="32dp"/>
+    <Button
+        android:id="@+id/button_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_reset"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"/>
+  </RelativeLayout>
+</LinearLayout>

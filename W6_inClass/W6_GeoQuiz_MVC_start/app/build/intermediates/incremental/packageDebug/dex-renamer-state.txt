@@ -1,0 +1,4 @@
+#Mon Oct 02 17:05:31 PDT 2017
+base.0=C\:\\Users\\empty\\Documents\\341Android\\W6_inClass\\W6_GeoQuiz_MVC_start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\empty\\Documents\\341Android\\W6_inClass\\W6_GeoQuiz_MVC_start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

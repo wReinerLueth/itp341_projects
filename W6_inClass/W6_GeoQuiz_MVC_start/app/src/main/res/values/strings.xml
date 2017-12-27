@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="label_true">True</string>
+    <string name="label_false">False</string>
+    <string name="label_next">Next</string>
+    <string name="label_prev">Prev</string>
+    <string name="label_cheat">Cheat!</string>
+    <string name="label_warning">Are you sure you want to do this?</string>
+    <string name="label_show_answer">Show Answer</string>
+
+    <string name="toast_correct">Correct!</string>
+    <string name="toast_incorrect">Incorrect!</string>
+    <string name="toast_correct_judgment">Cheating is wrong.</string>
+    <string name="toast_incorrect_judgment">You do not cheat very well. \nStick to guessing.</string>
+
+    <string name="label_score_correct">Correct: </string>
+    <string name="label_score_cheat">Cheated: </string>
+    <string name="label_score_incorrect">Incorrect: </string>
+    <string name="label_reset">Reset Score</string>
+
+</resources>
